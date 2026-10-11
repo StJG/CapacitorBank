@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Capacitor_tht_universal_size")(type "KiCad")(uri "${KIPRJMOD}/Capacitor_tht_universal_size.pretty")(options "")(descr ""))
+)
